@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PaymentProcessor",
+    "\\PaymentProcessor\\Extensions"
+  ],
+  "SelectedNode": "\\PaymentProcessor\\Extensions\\UnitOfWorkDIExtension.cs",
+  "PreviewInSolutionExplorer": false
+}
