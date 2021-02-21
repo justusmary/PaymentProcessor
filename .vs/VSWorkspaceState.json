@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\PaymentProcessor",
-    "\\PaymentProcessor\\Extensions"
+    "\\Tests"
   ],
-  "SelectedNode": "\\PaymentProcessor\\Extensions\\UnitOfWorkDIExtension.cs",
+  "SelectedNode": "\\Tests\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
